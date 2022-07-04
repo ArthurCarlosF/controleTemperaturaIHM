@@ -1,0 +1,13 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F887 -DL -O11111114 -fo16 -N"G:\IHM para Microcontroladores\Proteus\Simulação Serial\UART.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"G:\IHM para Microcontroladores\Proteus\Simulação Serial\" -SP"F:\IHM para Microcontroladores\Proteus\Simulação Serial\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "UART.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CString.mcl" "__Lib_Conversions.mcl" "__Lib_ADC_88X.mcl" "__Lib_UART_c67.mcl"	 
+warning: 0	1501	Specified search path does not exist: 'F:\IHM para Microcontroladores\Proteus\Simulação Serial'	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	UART.c
+warning: 37	1509	Generated baud rate is 9615 bps (error = 0.16 percent)	UART.c
+diagnostics: 221	123	Compiled Successfully	UART.c
+diagnostics: 0	127	All files Compiled in 125 ms	 
+hint: 0	1144	Used RAM (bytes): 98 (28%)  Free RAM (bytes): 254 (72%)	Used RAM (bytes): 98 (28%)  Free RAM (bytes): 254 (72%)
+hint: 0	1144	Used ROM (program words): 834 (10%)  Free ROM (program words): 7358 (90%)	Used ROM (program words): 834 (10%)  Free ROM (program words): 7358 (90%)
+diagnostics: 0	125	Project Linked Successfully	UART.mcppi
+diagnostics: 0	128	Linked in 62 ms	 
+diagnostics: 0	129	Project 'UART.mcppi' completed: 203 ms	 
+diagnostics: 0	103	Finished successfully: 19 jun 2022, 03:27:45	UART.mcppi
