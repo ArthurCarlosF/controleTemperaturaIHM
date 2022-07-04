@@ -1,0 +1,55 @@
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App23\App23\obj\Debug\App23.csprojResolveAssemblyReference.cache
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App23\App23\obj\Debug\App23.Form1.resources
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App23\App23\obj\Debug\App23.Properties.Resources.resources
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App23\App23\obj\Debug\App23.csproj.GenerateResource.Cache
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App23\App23\obj\Debug\App23.csproj.CoreCompileInputs.cache
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App23\App23\bin\Debug\App23.exe.config
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App23\App23\bin\Debug\App23.exe
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App23\App23\bin\Debug\App23.pdb
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App23\App23\bin\Debug\AGauge.dll
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App23\App23\obj\Debug\App23.exe
+C:\Users\Sandrini\Dropbox\Livro Supervisório VC#\Aplicações\App23\App23\obj\Debug\App23.pdb
+H:\Eletrônica Embarcada 2021\ACEPIC\Aplicações\Aplicações\App23\App23\bin\Debug\App23.exe.config
+H:\Eletrônica Embarcada 2021\ACEPIC\Aplicações\Aplicações\App23\App23\obj\Debug\App23.exe
+H:\Eletrônica Embarcada 2021\ACEPIC\Aplicações\Aplicações\App23\App23\obj\Debug\App23.pdb
+H:\Eletrônica Embarcada 2021\ACEPIC\Aplicações\Aplicações\App23\App23\bin\Debug\App23.exe
+H:\Eletrônica Embarcada 2021\ACEPIC\Aplicações\Aplicações\App23\App23\bin\Debug\App23.pdb
+H:\Eletrônica Embarcada 2021\ACEPIC\Aplicações\Aplicações\App23\App23\obj\Debug\App23.csprojResolveAssemblyReference.cache
+H:\Eletrônica Embarcada 2021\ACEPIC\Aplicações\Aplicações\App23\App23\obj\Debug\App23.Form1.resources
+H:\Eletrônica Embarcada 2021\ACEPIC\Aplicações\Aplicações\App23\App23\obj\Debug\App23.Properties.Resources.resources
+H:\Eletrônica Embarcada 2021\ACEPIC\Aplicações\Aplicações\App23\App23\obj\Debug\App23.csproj.GenerateResource.Cache
+G:\Eletrônica Embarcada 2021\ACEPIC\Aplicações\Aplicações\App23\App23\bin\Debug\App23.exe.config
+G:\Eletrônica Embarcada 2021\ACEPIC\Aplicações\Aplicações\App23\App23\bin\Debug\App23.exe
+G:\Eletrônica Embarcada 2021\ACEPIC\Aplicações\Aplicações\App23\App23\bin\Debug\App23.pdb
+G:\Eletrônica Embarcada 2021\ACEPIC\Aplicações\Aplicações\App23\App23\obj\Debug\App23.csproj.AssemblyReference.cache
+G:\Eletrônica Embarcada 2021\ACEPIC\Aplicações\Aplicações\App23\App23\obj\Debug\App23.Form1.resources
+G:\Eletrônica Embarcada 2021\ACEPIC\Aplicações\Aplicações\App23\App23\obj\Debug\App23.Properties.Resources.resources
+G:\Eletrônica Embarcada 2021\ACEPIC\Aplicações\Aplicações\App23\App23\obj\Debug\App23.csproj.GenerateResource.cache
+G:\Eletrônica Embarcada 2021\ACEPIC\Aplicações\Aplicações\App23\App23\obj\Debug\App23.csproj.CoreCompileInputs.cache
+G:\Eletrônica Embarcada 2021\ACEPIC\Aplicações\Aplicações\App23\App23\obj\Debug\App23.csproj.CopyComplete
+G:\Eletrônica Embarcada 2021\ACEPIC\Aplicações\Aplicações\App23\App23\obj\Debug\App23.exe
+G:\Eletrônica Embarcada 2021\ACEPIC\Aplicações\Aplicações\App23\App23\obj\Debug\App23.pdb
+G:\IHM para Microcontroladores\Aulas IFMG\171 - Recebendo dados\App23\obj\Debug\App23.csproj.AssemblyReference.cache
+G:\IHM para Microcontroladores\Aulas IFMG\171 - Recebendo dados\App23\obj\Debug\App23.Form1.resources
+G:\IHM para Microcontroladores\Aulas IFMG\171 - Recebendo dados\App23\obj\Debug\App23.Properties.Resources.resources
+G:\IHM para Microcontroladores\Aulas IFMG\171 - Recebendo dados\App23\obj\Debug\App23.csproj.GenerateResource.cache
+G:\IHM para Microcontroladores\Aulas IFMG\171 - Recebendo dados\App23\obj\Debug\App23.csproj.CoreCompileInputs.cache
+G:\IHM para Microcontroladores\Aulas IFMG\171 - Recebendo dados\App23\obj\Debug\App23.exe
+G:\IHM para Microcontroladores\Aulas IFMG\171 - Recebendo dados\App23\obj\Debug\App23.pdb
+G:\IHM para Microcontroladores\Aulas IFMG\171 - Recebendo dados\App23\bin\Debug\App23.exe.config
+G:\IHM para Microcontroladores\Aulas IFMG\171 - Recebendo dados\App23\bin\Debug\App23.exe
+G:\IHM para Microcontroladores\Aulas IFMG\171 - Recebendo dados\App23\bin\Debug\App23.pdb
+G:\IHM para Microcontroladores\Aulas IFMG\171 - Recebendo dados\App23\obj\Debug\App23.csproj.CopyComplete
+C:\Users\Pichau\Desktop\IMH_final\171 - Recebendo dados\App23\bin\Debug\App23.exe.config
+C:\Users\Pichau\Desktop\IMH_final\171 - Recebendo dados\App23\bin\Debug\App23.exe
+C:\Users\Pichau\Desktop\IMH_final\171 - Recebendo dados\App23\bin\Debug\App23.pdb
+C:\Users\Pichau\Desktop\IMH_final\171 - Recebendo dados\App23\obj\Debug\App23.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\IMH_final\171 - Recebendo dados\App23\obj\Debug\App23.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pichau\Desktop\IMH_final\171 - Recebendo dados\App23\obj\Debug\App23.Form1.resources
+C:\Users\Pichau\Desktop\IMH_final\171 - Recebendo dados\App23\obj\Debug\App23.Properties.Resources.resources
+C:\Users\Pichau\Desktop\IMH_final\171 - Recebendo dados\App23\obj\Debug\App23.csproj.GenerateResource.cache
+C:\Users\Pichau\Desktop\IMH_final\171 - Recebendo dados\App23\obj\Debug\App23.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\IMH_final\171 - Recebendo dados\App23\obj\Debug\App23.csproj.CopyComplete
+C:\Users\Pichau\Desktop\IMH_final\171 - Recebendo dados\App23\obj\Debug\App23.exe
+C:\Users\Pichau\Desktop\IMH_final\171 - Recebendo dados\App23\obj\Debug\App23.pdb
+C:\Users\Pichau\Desktop\IMH_final\171 - Recebendo dados\App23\bin\Debug\ProgressBars.Basic.dll
